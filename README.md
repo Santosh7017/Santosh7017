@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi Everyone 👋 I am Santosh Kumar Morya
+
+This is my Github account [Santosh7017](https://github.com/Santosh7017)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh7017)](https://github.com/Santosh7017/github-readme-stats)
+
+
+![Santosh Kumar Morya GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosh7017&hide=contribs,prs)
 
 <!--
 **Santosh7017/Santosh7017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+*** - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
