@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> -->
-Hi 👋 My name is Santosh Kumar Morya
-====================================
+<h1 align="center">Hi 👋, I'm Santosh Morya</h1>
+============================================================================================
 
 * 🌍  I'm based in Mathura, India
 
@@ -50,8 +50,8 @@ src="https://img.shields.io/github/followers/Santosh7017?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Santosh7017"><img src="https://github-readme-stats.vercel.app/api?username=Santosh7017&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="Santosh7017's GitHub stats" /></a>
+<a href="http://www.github.com/Santosh7017"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santosh7017&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="Santosh7017's GitHub stats" /></a>
 
 <a href="http://www.github.com/Santosh7017"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh7017&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Santosh7017" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh7017&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Santosh7017" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santosh7017&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
