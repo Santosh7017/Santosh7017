@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <h1 align="center">Hi 👋, I'm Santosh Morya</h1>
-============================================================================================
-
+=====================================================================================
 * 🌍  I'm based in Mathura, India
 
 <a href="https://www.github.com/Santosh7017" target="_blank" rel="noreferrer"><img
