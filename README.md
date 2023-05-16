@@ -34,8 +34,8 @@
 
 ## 📱 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/santosh-morya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal-agarwal-559878144" height="30" width="40" /></a>
-<a href="https://instagram.com/santosh_morya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starkhush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh-morya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/santosh-morya" height="30" width="40" /></a>
+<a href="https://instagram.com/santosh_morya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh_morya1" height="30" width="40" /></a>
 
 </p>
 
@@ -58,7 +58,7 @@
   </details>
 
 ## 🏆 Github Trophies:
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Santosh7017&row=1&column=-1&theme=gruvbox" alt="khushal-ag" /></a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Santosh7017&row=1&column=-1&theme=gruvbox" alt="Santosh7017" /></a> </div>
 
 ## 💻 Tech Stack:
 <div align="center">
