@@ -29,7 +29,8 @@
 <h1 align="center">Hi <span><img width="36px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif"></span>, I'm Santosh Morya</h1>
 <h3 align="center">A passionate programmer.</h3>
 
-
+<!-- ![Profile views](https://gpvc.arturio.dev/Santosh7017) -->
+[![](https://visitcount.itsvg.in/api?id=Santosh7017&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📱 Connect with me:
 <p align="left">
@@ -90,8 +91,6 @@
 ![][snake] <br> ![][graph]
 
 </div>
-<!-- ![Profile views](https://gpvc.arturio.dev/Santosh7017) -->
-[![](https://visitcount.itsvg.in/api?id=Santosh7017&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <h2 align="center">
