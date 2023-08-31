@@ -84,7 +84,7 @@
 ![][langs]
 
 
-## 💹 Contribution Graph:
+<!-- ## 💹 Contribution Graph:
 
 <div align = "center">
   
@@ -96,6 +96,7 @@
 <h2 align="center">
 <p align="center"><img width="150%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
+-->
 
 <!--   [![Santosh7017's GitHub | Stats](https://stats.quine.sh/Santosh7017/github?theme=dark)](https://quine.sh)
 [![Santosh7017's GitHub | Languages Over Time](https://stats.quine.sh/Santosh7017/languages-over-time?theme=dark)](https://quine.sh)
