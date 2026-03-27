@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Santosh7017&icon=5&color=6)](https://visitcount.itsvg.in)
+<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=Santosh7017&icon=5&color=6)](https://visitcount.itsvg.in) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/santoshmorya)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/santosh_morya1)
 [![Email](https://img.shields.io/badge/Email-santoshmorya400@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santoshmorya400@gmail.com)
